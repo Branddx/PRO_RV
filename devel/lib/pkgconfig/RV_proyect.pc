@@ -1,0 +1,8 @@
+prefix=/home/brandons/tarea4/devel
+
+Name: RV_proyect
+Description: Description of RV_proyect
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
